@@ -1,16 +1,29 @@
-### Hi there 👋
+# My GitHub profile README
 
-<!--
-**dbstream/dbstream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Tabs are better than spaces.
 
-Here are some ideas to get you started:
+-me, since the day I was born.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming knowledge
+
+### Knows some...
+
+- C#
+
+- Java
+
+- HTML/JS
+
+- Shell scripting
+
+- OpenGL
+
+### Very good at...
+
+- C
+
+- C++
+
+- Systems programming in C and C++
+
+- Unix tools
