@@ -2,28 +2,30 @@
 
 ## Programming knowledge
 
-### I'm decently skilled at...
+These may or may not be accurate.
 
-- C and C++
+### I'm very good at...
+
+- Programming (especially sysdev) in C and C++
+
+- Understanding data structures
+
+- Understanding operating system interfaces
+
+### I'm okay at...
+
+- Python
+
+- OpenGL graphics
+
+- Vulkan graphics
 
 - x86 assembler
 
-### I have used it at least once in my life...
-
-- C#
-
-- Java
-
-- Python (slightly more than at least once in my life)
-
-- more things, but I won't bother listing them here
+- The SC-DRF memory model.
 
 ## Hobbies related to computers
 
-- Systems programming in C and C++
-
-- Graphics programming, in particular with OpenGL or Vulkan
-
 - Hacking, cybersecurity
 
-- (Small amounts of) video games
+- (Moderate amounts of) video games
